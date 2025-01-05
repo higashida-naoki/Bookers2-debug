@@ -1,0 +1,2 @@
+module RelatuinshipsHelper
+end
